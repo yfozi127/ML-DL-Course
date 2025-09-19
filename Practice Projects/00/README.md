@@ -29,3 +29,9 @@ This folder contains solutions to two fundamental Python programming problems. T
 ### Concepts Used:
 - Iterative comparison of array elements.
 - Conditional logic to track monotonicity.
+
+## 🛠️ Technologies Used
+
+    Python 3
+    NumPy
+    Matplotlib
