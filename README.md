@@ -53,3 +53,6 @@ Each notebook introduces key concepts with explanations, examples, and exercises
 
 Dr. Amir Zamani Doost
 Expert in Machine Learning, Data Science, and Applied AI
+You can find the recording of the classes over on his [Youtube channel](https://www.youtube.com/@amirzamanidoost2590)
+
+---
